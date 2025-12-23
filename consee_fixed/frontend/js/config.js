@@ -1,0 +1,4 @@
+// frontend/js/config.js
+
+window.SUPABASE_URL = "https://xxwoxdptynhptttibylu.supabase.co";
+window.SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6Inh4d294ZHB0eW5ocHR0dGlieWx1Iiwicm9sZSI6ImFub24iLCJpYXQiOjE3NjY0NDY3NzcsImV4cCI6MjA4MjAyMjc3N30.AaS3Yv-WHH8u8Fi8QuQ45UEkA01Wc7JTTk8vmwQZXyk";
